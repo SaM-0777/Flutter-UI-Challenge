@@ -1,16 +1,13 @@
-# ui_challenge
+# Flutter UI Challenge
 
-A new Flutter project.
+Welcome to The Flutter UI Challenge! 🚀
 
-## Getting Started
+This repository is part of a series of Flutter UI Challenges designed to boost your UI development skills. Each challenge focuses on implementing creative designs using Flutter's powerful widgets.
 
-This project is a starting point for a Flutter application.
+## About This Challenge
 
-A few resources to get you started if this is your first Flutter project:
+I try to Explore and implement animations, gestures, drawing custom shapes, arcs and stunning UI using Flutter's widgets and design principles without any packages.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Showcase
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+See contributors' implementations in the [Showcase](Showcase.md) section.
