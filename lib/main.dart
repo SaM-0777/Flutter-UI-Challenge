@@ -19,7 +19,7 @@ class App extends StatelessWidget {
     return const MaterialApp(
       title: 'UI Challenge',
       debugShowCheckedModeBanner: false,
-      home: CreateTodoScreen(),
+      home: TodoHomeScreen(),
     );
   }
 }
